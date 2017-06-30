@@ -1,0 +1,19 @@
+{
+  "name": "installs",
+  "version": "1.0.0",
+  "description": "Working folder for Installing packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[\"Bootcamp\"",
+    "\"Lighthouse",
+    "Labs\"]"
+  ],
+  "author": "Lawrence Surges",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chalk": "^2.0.1"
+  }
+}
